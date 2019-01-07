@@ -1,10 +1,10 @@
-# kabel/php-ext
+# v1shky/php-ext is kabel/php-ext Fix
 Core PHP extension formulae for the Homebrew package manager. These extensions are not a part of [Homebrew/core](https://github.com/Homebrew/homebrew-core/) because they are either not popular enough or have known stability problems.
 
 Other extensions that used to be available from, the now deprecated, [Homebrew/php](https://github.com/Homebrew/homebrew-php/) should be installed through [PECL](https://pecl.php.net/).
 
 ## How do I install these formulae?
-`brew tap kabel/php-ext` then `brew install <formula>`
+`brew tap v1shky/php-ext` then `brew install <formula>`
 
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
